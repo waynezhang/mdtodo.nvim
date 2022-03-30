@@ -9,7 +9,7 @@ This is just some toy project and not fully tested. Please use it at your own ri
 1. Four statuses are supported: `TODO`, `DOING`, `DONE` and `CANCELED`.  
   The task format is inspired by [logseq](http://logseq.com) but not intented to be fully compatible with it.
 1. Toggle task by `:TodoToggle` command.
-1. Search all `TODO` and `DOING` from files in current directory powered by `telescope.nvim`.
+1. Search all `TODO` and `DOING` from files in current directory powered by `telescope.nvim` (`Telescope mdtodo`).
     1. Toggle todo in telescope: `<C-t>` in `Insert` mode and `t` in `Normal` mode
 
 ## Installation
